@@ -6,3 +6,4 @@ git restore filename (restore deleted files)
 git remote add origin https://github.com/shaik7866/git_learning.git
 git remote set-url origin https://PAT_token@github.com/shaik7866/git_learning.git
 git push -u origin master
+git clone url
