@@ -10,3 +10,4 @@ git clone url
 git branch (view branches)
 git branch branch_name (create new branch)
 git switch branch_name (switch to a branch name)
+git fetch
