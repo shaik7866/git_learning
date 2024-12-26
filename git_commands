@@ -7,3 +7,6 @@ git remote add origin https://github.com/shaik7866/git_learning.git
 git remote set-url origin https://PAT_token@github.com/shaik7866/git_learning.git
 git push -u origin master
 git clone url
+git branch (view branches)
+git branch branch_name (create new branch)
+git switch branch_name (switch to a branch name)
