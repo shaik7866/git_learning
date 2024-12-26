@@ -1,0 +1,5 @@
+git init (initialise empty git repository)
+git status (to check un tracked files)
+git commit -m "message" filename ( to commit the file)
+git add filename (to track the file)
+git restore filename (restore deleted files)
